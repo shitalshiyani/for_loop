@@ -6,7 +6,7 @@ main()
 	printf("Enter value of N=");
 	scanf("%d",&n);
 	
-	for (a=1; a<=n; a++);
+	for (a=1; a<=n; a++)
 	{
 		printf("%d\n",a);
     	fact=fact*a;	
